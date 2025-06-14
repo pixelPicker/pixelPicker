@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 👀 I’m interested in **web/app design and development**.
-- 🌱 I’m currently learning **Full Stack Development** (MERN) and **Flutter**.
+- 🌱 I’m currently learning **Full Stack Development** (MERN).
 - 💡 I love exploring new technologies and building projects.
 
 ## 🎯 Collaboration
