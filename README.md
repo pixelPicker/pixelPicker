@@ -11,5 +11,6 @@
 ## 🎭 Pronouns
 - You can call me *he/him*!
 
-## ⚡ Fun Fact
-- **Mitochondria is the powerhouse of the cell**
+## 💞️ What I Love
+- Music
+- Gaming
